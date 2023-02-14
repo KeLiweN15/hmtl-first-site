@@ -1,0 +1,32 @@
+body {
+  background-color: #EEF1FF;
+}
+
+hr {
+  border-style: none ;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width:5px;
+  width: 5%;
+}
+
+
+h1 {
+  color: #5F6F94;
+}
+
+H3 {
+  color: #5F6F94;
+}
+
+/***class selectors***/
+body {
+  color: black;
+}
+
+.jane {
+  color: green;
+}
+th{
+  color:green ;
+}
